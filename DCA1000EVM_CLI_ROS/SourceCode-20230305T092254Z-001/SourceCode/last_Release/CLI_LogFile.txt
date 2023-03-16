@@ -1,0 +1,284 @@
+
+Thu Oct 27 18:19:51 2022
+FPGA Configuration Command (req)
+
+Thu Oct 27 18:20:35 2022
+FPGA Configuration Command (req)
+
+Thu Oct 27 18:20:35 2022
+FPGA Configuration command : Success
+
+Thu Oct 27 18:20:35 2022
+Return status : 0
+
+Thu Oct 27 18:20:47 2022
+Configure Record Command (req)
+
+Thu Oct 27 18:20:47 2022
+Configure Record command : Success
+
+Thu Oct 27 18:20:47 2022
+Return status : 0
+
+Thu Oct 27 18:20:53 2022
+Start Record Command (req)
+
+Thu Oct 27 18:20:53 2022
+Start Record Command (req)
+
+Thu Oct 27 18:20:53 2022
+Start Record command : Success
+
+Thu Oct 27 18:20:53 2022
+Start Record command : Success
+
+Thu Oct 27 18:20:53 2022
+Return status : 0
+
+Thu Oct 27 18:21:23 2022
+No LVDS data
+
+Thu Oct 27 18:48:43 2022
+fpga
+
+Thu Oct 27 18:48:43 2022
+Stop the already running process.
+
+Thu Oct 27 18:48:48 2022
+Stop Record Command (req)
+
+Thu Oct 27 18:48:55 2022
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Oct 27 18:48:59 2022
+FPGA Configuration Command (req)
+
+Thu Oct 27 18:48:59 2022
+FPGA Configuration command : Success
+
+Thu Oct 27 18:48:59 2022
+Return status : 0
+
+Thu Oct 27 18:49:01 2022
+Configure Record Command (req)
+
+Thu Oct 27 18:49:01 2022
+Configure Record command : Success
+
+Thu Oct 27 18:49:01 2022
+Return status : 0
+
+Thu Oct 27 18:49:07 2022
+Start Record Command (req)
+
+Thu Oct 27 18:49:07 2022
+Start Record Command (req)
+
+Thu Oct 27 18:49:07 2022
+Start Record command : Success
+
+Thu Oct 27 18:49:07 2022
+Start Record command : Success
+
+Thu Oct 27 18:49:07 2022
+Return status : 0
+
+Thu Oct 27 18:49:18 2022
+Record is completed
+
+Thu Oct 27 18:49:30 2022
+Stop Record Command (req)
+
+Thu Oct 27 18:49:38 2022
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Oct 27 18:49:56 2022
+Ethernet connection
+
+Thu Oct 27 18:49:56 2022
+Ethernet connection failed. [error -4051]
+
+Thu Oct 27 18:49:59 2022
+Ethernet connection
+
+Thu Oct 27 18:49:59 2022
+Ethernet connection failed. [error -4051]
+
+Thu Oct 27 18:51:24 2022
+FPGA Configuration Command (req)
+
+Thu Oct 27 18:51:24 2022
+FPGA Configuration command : Success
+
+Thu Oct 27 18:51:24 2022
+Return status : 0
+
+Thu Oct 27 18:52:26 2022
+stop_record
+
+Thu Oct 27 18:52:26 2022
+No record process is running.
+
+Thu Oct 27 18:53:41 2022
+FPGA Configuration Command (req)
+
+Thu Oct 27 18:53:41 2022
+FPGA Configuration command : Success
+
+Thu Oct 27 18:53:41 2022
+Return status : 0
+
+Thu Oct 27 18:53:45 2022
+Configure Record Command (req)
+
+Thu Oct 27 18:53:45 2022
+Configure Record command : Success
+
+Thu Oct 27 18:53:45 2022
+Return status : 0
+
+Thu Oct 27 18:54:07 2022
+Start Record Command (req)
+
+Thu Oct 27 18:54:07 2022
+Start Record Command (req)
+
+Thu Oct 27 18:54:07 2022
+Start Record command : Success
+
+Thu Oct 27 18:54:07 2022
+Start Record command : Success
+
+Thu Oct 27 18:54:07 2022
+Return status : 0
+
+Thu Oct 27 18:54:08 2022
+Record is completed
+
+Thu Oct 27 18:54:27 2022
+start_record
+
+Thu Oct 27 18:54:27 2022
+Stop the already running process.
+
+Thu Oct 27 18:54:33 2022
+Stop Record Command (req)
+
+Thu Oct 27 18:54:40 2022
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Oct 27 18:54:45 2022
+Ethernet connection
+
+Thu Oct 27 18:54:45 2022
+Ethernet connection failed. [error -4051]
+
+Thu Oct 27 18:56:27 2022
+Ethernet connection
+
+Thu Oct 27 18:56:27 2022
+Ethernet connection failed. [error -4051]
+
+Thu Oct 27 18:57:44 2022
+FPGA Configuration Command (req)
+
+Thu Oct 27 18:57:44 2022
+FPGA Configuration command : Success
+
+Thu Oct 27 18:57:44 2022
+Return status : 0
+
+Thu Oct 27 18:59:10 2022
+FPGA Configuration Command (req)
+
+Thu Oct 27 18:59:10 2022
+FPGA Configuration command : Success
+
+Thu Oct 27 18:59:10 2022
+Return status : 0
+
+Thu Oct 27 18:59:15 2022
+Configure Record Command (req)
+
+Thu Oct 27 18:59:15 2022
+Configure Record command : Success
+
+Thu Oct 27 18:59:15 2022
+Return status : 0
+
+Thu Oct 27 18:59:20 2022
+Start Record Command (req)
+
+Thu Oct 27 18:59:20 2022
+Start Record Command (req)
+
+Thu Oct 27 18:59:20 2022
+Start Record command : Success
+
+Thu Oct 27 18:59:20 2022
+Start Record command : Success
+
+Thu Oct 27 18:59:20 2022
+Return status : 0
+
+Thu Oct 27 19:00:02 2022
+Stop Record Command (req)
+
+Thu Oct 27 19:00:09 2022
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Oct 27 19:02:59 2022
+FPGA Configuration Command (req)
+
+Thu Oct 27 19:02:59 2022
+FPGA Configuration command : Success
+
+Thu Oct 27 19:02:59 2022
+Return status : 0
+
+Thu Oct 27 19:02:59 2022
+Configure Record Command (req)
+
+Thu Oct 27 19:02:59 2022
+Configure Record command : Success
+
+Thu Oct 27 19:02:59 2022
+Return status : 0
+
+Thu Oct 27 19:02:59 2022
+Start Record Command (req)
+
+Thu Oct 27 19:02:59 2022
+Start Record Command (req)
+
+Thu Oct 27 19:02:59 2022
+Start Record command : Success
+
+Thu Oct 27 19:02:59 2022
+Start Record command : Success
+
+Thu Oct 27 19:02:59 2022
+Return status : 0
+
+Thu Oct 27 19:03:09 2022
+Record is completed
+
+Sun Mar  5 12:30:56 2023
+FPGA Configuration Command (req)
+
+Sun Mar  5 12:31:06 2023
+FPGA Configuration : 
+OS error - -2
+
+Sun Mar  5 12:31:06 2023
+Return status : -2
+
+Sun Mar  5 12:31:11 2023
+FPGA Configuration Command (req)
+
+Sun Mar  5 12:31:21 2023
+FPGA Configuration : 
+OS error - -2
+
+Sun Mar  5 12:31:21 2023
+Return status : -2

@@ -1,0 +1,2 @@
+leap_motion
+-DCATKIN_DEVEL_PREFIX=/home/inosens/Desktop/prevla_sensors/prevla_leap_doga/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/inosens/Desktop/prevla_sensors/prevla_leap_doga/catkin_ws/install -G Unix Makefiles

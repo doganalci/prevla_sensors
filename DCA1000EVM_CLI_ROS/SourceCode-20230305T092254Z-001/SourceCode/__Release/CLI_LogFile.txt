@@ -1,0 +1,60 @@
+
+Thu Oct 27 18:13:59 2022
+fpga
+
+Thu Oct 27 18:13:59 2022
+Stop the already running process.
+
+Thu Oct 27 18:14:53 2022
+fpga
+
+Thu Oct 27 18:14:53 2022
+Stop the already running process.
+
+Thu Oct 27 18:15:00 2022
+Stop Record Command (req)
+
+Thu Oct 27 18:15:07 2022
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Oct 27 18:15:49 2022
+FPGA Configuration Command (req)
+
+Thu Oct 27 18:15:49 2022
+FPGA Configuration command : Success
+
+Thu Oct 27 18:15:49 2022
+Return status : 0
+
+Thu Oct 27 18:15:54 2022
+FPGA Configuration Command (req)
+
+Thu Oct 27 18:15:54 2022
+FPGA Configuration command : Success
+
+Thu Oct 27 18:15:54 2022
+Return status : 0
+
+Thu Oct 27 18:16:06 2022
+FPGA Configuration Command (req)
+
+Thu Oct 27 18:16:06 2022
+FPGA Configuration command : Success
+
+Thu Oct 27 18:16:06 2022
+Return status : 0
+
+Thu Oct 27 18:16:08 2022
+Configure Record Command (req)
+
+Thu Oct 27 18:16:08 2022
+Configure Record command : Success
+
+Thu Oct 27 18:16:08 2022
+Return status : 0
+
+Thu Oct 27 18:16:13 2022
+Start Record Command (req)
+
+Thu Oct 27 18:16:21 2022
+Start Record Command (req)

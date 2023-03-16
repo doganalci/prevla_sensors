@@ -1,0 +1,6 @@
+inosens  23868  0.0  0.7 274208 57428 pts/12   Rsl+ 21:59   0:00 ./DCA1000EVM_CLI_Record start_record configFile.json
+inosens  23874  0.0  0.0  15852  1024 pts/10   S+   21:59   0:00 grep DCA
+inosens  23883  0.0  0.0  22120  4736 pts/8    S+   22:00   0:00 ./DCA1000EVM_CLI_Control stop_record configFile.json
+inosens  23889  0.0  0.0  15852  1108 pts/10   S+   22:00   0:00 grep DCA
+inosens  23902  0.0  0.7 274208 59048 pts/12   Rsl+ 22:00   0:00 ./DCA1000EVM_CLI_Record start_record configFile.json
+inosens  23908  0.0  0.0  15852  1024 pts/10   S+   22:00   0:00 grep DCA

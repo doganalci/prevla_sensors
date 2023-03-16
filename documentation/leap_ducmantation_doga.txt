@@ -1,0 +1,25 @@
+
+Run these terminal commands
+
+wget -qO - https://repo.ultraleap.com/keys/apt/gpg | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/ultraleap.gpg
+
+echo 'deb [arch=amd64] https://repo.ultraleap.com/apt stable main' | sudo tee /etc/apt/sources.list.d/ultraleap.list
+sudo apt update
+
+sudo apt install ultraleap-hand-tracking
+sudo apt upgrade
+
+
+download leap sdkv2 from https://developer.leapmotion.com/legacy-v2/
+
+teeminal run this terminal command sudo dpkg --install Leap-2.3.1+31549-x64.deb
+
+
+
+to run leap motion on ros Run these terminal commands
+sudo leapd  (in a different terminal to run deamon)
+
+source devel/setup.bash    (on ros folder)
+
+roslaunch ti_mmwave_rospkg 1843_multi_3d_0.launch
+

@@ -1,0 +1,70 @@
+
+Mon Mar  6 09:33:37 2023
+FPGA Configuration Command (req)
+
+Mon Mar  6 09:33:47 2023
+FPGA Configuration : 
+OS error - -2
+
+Mon Mar  6 09:33:47 2023
+Return status : -2
+
+Mon Mar  6 09:33:51 2023
+FPGA Configuration Command (req)
+
+Mon Mar  6 09:34:01 2023
+FPGA Configuration : 
+OS error - -2
+
+Mon Mar  6 09:34:01 2023
+Return status : -2
+
+Mon Mar  6 09:35:28 2023
+FPGA Configuration Command (req)
+
+Mon Mar  6 09:35:38 2023
+FPGA Configuration : 
+OS error - -2
+
+Mon Mar  6 09:35:38 2023
+Return status : -2
+
+Mon Mar  6 09:37:01 2023
+FPGA Configuration Command (req)
+
+Mon Mar  6 09:37:11 2023
+FPGA Configuration : 
+OS error - -2
+
+Mon Mar  6 09:37:11 2023
+Return status : -2
+
+Wed Mar  8 13:56:12 2023
+FPGA Configuration Command (req)
+
+Wed Mar  8 13:56:22 2023
+FPGA Configuration : 
+OS error - -2
+
+Wed Mar  8 13:56:22 2023
+Return status : -2
+
+Wed Mar  8 13:56:36 2023
+FPGA Configuration Command (req)
+
+Wed Mar  8 13:56:46 2023
+FPGA Configuration : 
+OS error - -2
+
+Wed Mar  8 13:56:46 2023
+Return status : -2
+
+Wed Mar  8 13:58:04 2023
+FPGA Configuration Command (req)
+
+Wed Mar  8 13:58:14 2023
+FPGA Configuration : 
+OS error - -2
+
+Wed Mar  8 13:58:14 2023
+Return status : -2

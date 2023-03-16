@@ -1,0 +1,13 @@
+leap: 
+!!!! export LEAPSDK=$LEAPSDK:$HOME/LeapSDK
+
+
+sudo leapd
+source devel/setup.bash
+launch ...
+
+
+
+kinectv2:
+
+
