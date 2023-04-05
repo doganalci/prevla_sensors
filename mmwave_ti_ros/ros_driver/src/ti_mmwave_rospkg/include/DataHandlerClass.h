@@ -21,6 +21,9 @@
 #include <visualization_msgs/Marker.h>
 #include <cmath>
 #include <signal.h>
+#include <sqltypes.h>
+#include <sql.h>
+#include <sqlext.h>
 #define COUNT_SYNC_MAX 2
 
 class DataUARTHandler{

@@ -197,13 +197,16 @@ def on_start_button_click():
     lab.config(text = "FINISH",font=Font_tuple)
 
     if(raw): ## move file
+        dosya_ismi = str(expr_no) + "_"+ str(movement)
         rawStop = "cd && cd  /home/inosens/Desktop/prevla_sensors/DCA1000EVM_CLI_ROS/SourceCode-20230305T092254Z-001/SourceCode/Release && ./raw_stop.sh"
-        subprocess.Popen(rawStop,shell=True,executable="/bin/sh")
+        stoppid= subprocess.Popen(rawStop,shell=True,executable="/bin/sh")
 
+        stoppid.stdout()
+        time.sleep(1.5)
+        comandder= "mv datacard_record_Raw_0.bin raw_data/raw_"+str(dosya_ismi)           
+        subprocess.Popen(comandder,shell=True,executable="/bin/sh")
     
     new.update()
-    time.sleep(1.5)
-    
     new.destroy()
 
 

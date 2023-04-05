@@ -45,7 +45,7 @@ int image_operation=1;
 int hand_no,radar_no;
 FILE* fradar;FILE* fimage;FILE* fdeney;
 
-int bbb,bb,cnf=1 ,ffdd=0,t=0,son_radar=0, son_image=0,son_deney=0,il,sy=0;
+int bbb,bb,cnf=1 ,ffdd=0,t=0,son_radar=0, son_image=0,son_deney=0,il,sy=0;   //deney güncewllemesini bu değişkenden yap
 char bas[250]="",buffer [250], buffer_cfg [1000];
 ofstream outdata,cvsdata; // outdata is like cin
 ifstream ifs;
@@ -348,19 +348,19 @@ void *DataUARTHandler::sortIncomingData( void )
       {
         sy++;
         std::string line;
-        //if (false){ifstream fradar2("/home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/log/radar_data_doga.cvs");          while (getline(fradar2, line))son_radar++;              }
-        //if (false){ifstream fimage2("/home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/log/image_point_cvs.cvs");       std::string line2;   while (getline(fimage2, line2))son_image++; }
-        ifstream fdeney2("/home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/log/deney_loglari.cvs");      std::string line3;    while (getline(fdeney2, line3))son_deney++;
+        //if (false){ifstream fradar2("/home/inosens/Desktop/data_collection/sensor_data/radar_data_doga.cvs");          while (getline(fradar2, line))son_radar++;              }
+        //if (false){ifstream fimage2("/home/inosens/Desktop/data_collection/radar/image_point_cvs.cvs");       std::string line2;   while (getline(fimage2, line2))son_image++; }
+        ifstream fdeney2("/home/inosens/Desktop/data_collection/sensor_data/radar_deney_loglari.cvs");      std::string line3;    while (getline(fdeney2, line3))son_deney++;
         //  printf("->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n\n\n%d\n",son_radar );printf("%d\n",son_deney );printf("%d\n",son_image );
       }
 
-  //                      std::ofstream outdata( "/home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/log/radar_data_doga.dat", std::ios::app ) ;
-//                        std::ofstream cvsdata( "/home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/log/radar_data_doga.cvs", std::ios::app ) ;
+  //                      std::ofstream outdata( "/home/inosens/Desktop/data_collection/radar/radar_data_doga.dat", std::ios::app ) ;
+//                        std::ofstream cvsdata( "/home/inosens/Desktop/data_collection/sensor_data/radar_data_doga.cvs", std::ios::app ) ;
 
 
 //
-                        //outdata.open("/home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/log/radar_data_doga.dat",std::ios_base::app); // opens the file
-                        cvsdata.open("/home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/log/radar_data_doga.csv",std::ios_base::app); // opens the file
+                        //outdata.open("/home/inosens/Desktop/data_collection/radar/radar_data_doga.dat",std::ios_base::app); // opens the file
+                        cvsdata.open("/home/inosens/Desktop/data_collection/sensor_data/radar_data_doga.csv",std::ios_base::app); // opens the file
 
 
 
@@ -433,11 +433,11 @@ void *DataUARTHandler::sortIncomingData( void )
           
           int mediapipe_kendin_calistir=false;
           if (mediapipe_kendin_calistir==true){
-            int exit_status1 =system("gnome-terminal -- bash -c 'tail -f  /home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/log/radar_data_doga.csv; exec bash'");
-            //int exit_status2 =system("gnome-terminal -- bash -c 'tail -f  /home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/log/radar_data_doga.dat; exec bash'");
-            int exit_status3 =system("gnome-terminal -- bash -c 'tail -f  /home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/log/image_point_cvs.cvs; exec bash'");
-            //int exit_status4 =system("gnome-terminal -- bash -c 'tail -f  /home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/log/image_connect_cvs.cvs; exec bash'");
-            int exit_status5 =system("gnome-terminal -- bash -c 'tail -f  /home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/log/deney_loglari.cvs; exec bash'");
+            int exit_status1 =system("gnome-terminal -- bash -c 'tail -f  /home/inosens/Desktop/data_collection/radar/radar_data_doga.csv; exec bash'");
+            //int exit_status2 =system("gnome-terminal -- bash -c 'tail -f  /home/inosens/Desktop/data_collection/radar/radar_data_doga.dat; exec bash'");
+            int exit_status3 =system("gnome-terminal -- bash -c 'tail -f  /home/inosens/Desktop/data_collection/radar/image_point_cvs.cvs; exec bash'");
+            //int exit_status4 =system("gnome-terminal -- bash -c 'tail -f  /home/inosens/Desktop/data_collection/radar/image_connect_cvs.cvs; exec bash'");
+            int exit_status5 =system("gnome-terminal -- bash -c 'tail -f  /home/inosens/Desktop/data_collection/radar/radar_deney_loglari.cvs; exec bash'");
             int exit_status7 =system("gnome-terminal -- bash -c 'rostopic echo /ti_mmwave/radar_scan_pcl_0; exec bash'");
             //int exit_status3 =system("gnome-terminal -- bash -c '  python3 /home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/hand/hand_media.py 0 0.0000000001 1 1 a 1 1 doga; exec bash'");
             int exit_status6 =system(c1);
@@ -723,30 +723,94 @@ char ttt[250]="";
                       char tsc[10]=" ";
 
 
-                    printf("\n*************************************************** \n" );
-                    printf("\n  hey yooo \n" );
+                    //printf("\n*************************************************** \n" );
+                    //printf("\n  hey yooo \n" );
 
-                                        printf("timestamp                  :: %f\n", fractional_seconds_since_epoch);
+                                        //printf("timestamp                  :: %f\n", fractional_seconds_since_epoch);
                                         time_t givemetime = time(NULL);
                                         char *t=ctime(&givemetime);
-                                        printf("date                       :: %s",   t);
-                                        printf("Deney-Frame no-Obj/Ind     :: %d - %d - %d / %d \n",son_deney,son_radar, mmwData.numObjOut,i+1);
-                                        printf("RScan->points[%d].x         :: %f \n",i+1,RScan->points[i].y);
-                                        printf("RScan->points[%d].y         :: %f \n",i+1,-RScan->points[i].x);
-                                        printf("RScan->points[%d].z         :: %f \n",i+1,RScan->points[i].z);
-                                        printf("RScan->points[%d].vel       :: %f \n",i+1,RScan->points[i].velocity);
-                                        printf("RScan->points[%d].intensity :: %f  \n\n",i+1,RScan->points[i].intensity);
+                                        //printf("date                       :: %s",   t);
+                                        //printf("Deney-Frame no-Obj/Ind     :: %d - %d - %d / %d \n",son_deney,son_radar, mmwData.numObjOut,i+1);
+                                        //printf("RScan->points[%d].x         :: %f \n",i+1,RScan->points[i].y);
+                                        //printf("RScan->points[%d].y         :: %f \n",i+1,-RScan->points[i].x);
+                                        //printf("RScan->points[%d].z         :: %f \n",i+1,RScan->points[i].z);
+                                        //printf("RScan->points[%d].vel       :: %f \n",i+1,RScan->points[i].velocity);
+                                        //printf("RScan->points[%d].intensity :: %f  \n\n",i+1,RScan->points[i].intensity);
 
                                         strcat(ttt, kimlik); strcat(ttt, tsc);strcat(ttt, t);
 
                                         //char bas[250]="",buffer [250];
+                                        char sqlchar[500]; 
 
                                         if (1==0)bbb=sprintf (buffer, "%d,%d,%d,%d,%f,%f,%f,%f,%f,%f,%s,%s",son_deney,son_radar,mmwData.numObjOut,i ,radarscan.y,-radarscan.x,radarscan.z,radarscan.velocity,radarscan.intensity,fractional_seconds_since_epoch,kimlik,t);
                                         else     bbb=sprintf (buffer, "%d,%d,%d,%d,%f,%f,%f,%f,%f,%f,%s,%s", son_deney,son_radar,mmwData.numObjOut,i ,RScan->points[i].y,-RScan->points[i].x,RScan->points[i].z,RScan->points[i].velocity,RScan->points[i].intensity,fractional_seconds_since_epoch,kimlik,t);
+                                        sprintf (sqlchar, "INSERT INTO [dbo].[RadarDatas]([rdr_experiment_no],[rdr_frame_no],[rdr_total_points_in_frame],[rdr_point_no_in_frame],[rdr_y_radar],[rdr_x_radar],[rdr_z_radar],[rdr_vel_radar],[rdr_intensity_radar],[rdr_timestamp],[rdr_user],[rdr_date]) VALUES(%d,%d,%d,%d,%f,%f,%f,%f,%f,%f,'%s',1250)", son_deney,son_radar,mmwData.numObjOut,i ,RScan->points[i].y,-RScan->points[i].x,RScan->points[i].z,RScan->points[i].velocity,RScan->points[i].intensity,fractional_seconds_since_epoch,kimlik);
+                                        //printf("%s/n",sqlchar);
                                         outdata<<buffer;
                                         cvsdata<<buffer;
                                         ffdd+=1;
                                         int bag=0;
+
+
+
+
+
+
+                                        SQLHANDLE henv;   // Environment Handle
+                                        SQLHANDLE hdbc;   // Connection Handle
+                                        SQLHANDLE hstmt;  // Statement Handle
+                                        SQLRETURN retcode; // Return code
+
+                                        // Environment handle oluşturma
+                                        retcode = SQLAllocHandle(SQL_HANDLE_ENV, SQL_NULL_HANDLE, &henv);
+                                        if (retcode != SQL_SUCCESS && retcode != SQL_SUCCESS_WITH_INFO) {
+                                            std::cout << "Error creating Environment Handle!" << endl;
+                                            //
+                                        }
+
+                                        // ODBC versionunu belirleme
+                                        retcode = SQLSetEnvAttr(henv, SQL_ATTR_ODBC_VERSION, (void*)SQL_OV_ODBC3, 0);
+                                        if (retcode != SQL_SUCCESS && retcode != SQL_SUCCESS_WITH_INFO) {
+                                            std::cout << "Error setting Environment Attribute!" << endl;
+                                            //
+                                        }
+
+                                        // Connection handle oluşturma
+                                        retcode = SQLAllocHandle(SQL_HANDLE_DBC, henv, &hdbc);
+                                        if (retcode != SQL_SUCCESS && retcode != SQL_SUCCESS_WITH_INFO) {
+                                            std::cout << "Error creating Connection Handle!" << endl;
+                                            //
+                                        }
+
+                                        // Veritabanına bağlanma
+                                        SQLCHAR* connStr = (SQLCHAR*)"DRIVER={ODBC Driver 18 for SQL Server};SERVER=193.35.200.106;DATABASE=Prevla;UID=SA;PWD=hP337^9nArG&;TrustServerCertificate=Yes";
+                                        retcode = SQLDriverConnect(hdbc, NULL, connStr, SQL_NTS, NULL, 0, NULL, SQL_DRIVER_NOPROMPT);
+                                        if (retcode != SQL_SUCCESS && retcode != SQL_SUCCESS_WITH_INFO) {
+                                            std::cout << "Error connecting to Database!" << endl;
+                                            //
+                                        }
+
+                                        // Statement handle oluşturma
+                                        retcode = SQLAllocHandle(SQL_HANDLE_STMT, hdbc, &hstmt);
+                                        if (retcode != SQL_SUCCESS && retcode != SQL_SUCCESS_WITH_INFO) {
+                                            std::cout << "Error creating Statement Handle!" << endl;
+                                            //
+                                        }
+
+                                        // Sorgu çalıştırma
+                                        retcode = SQLExecDirect(hstmt, (SQLCHAR*)sqlchar, SQL_NTS);
+                                        if (retcode != SQL_SUCCESS && retcode != SQL_SUCCESS_WITH_INFO) {
+                                            std::cout << "Error executing query!" << endl;
+                                            ////
+                                        }
+
+                                        //std::cout << "Data inserted successfully!" << endl;
+
+                                        // Handle'ların serbest bırakılması
+                                        SQLFreeHandle(SQL_HANDLE_STMT, hstmt);
+                                        SQLDisconnect(hdbc);
+                                        SQLFreeHandle(SQL_HANDLE_DBC, hdbc);
+                                        SQLFreeHandle(SQL_HANDLE_ENV, henv);
 
                                         if (bag==0){
 

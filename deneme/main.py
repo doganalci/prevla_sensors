@@ -65,7 +65,7 @@ def run_selected_programs():
         mediaLogFile1 = os.path.getsize('/home/inosens/Desktop/data_collection/sensor_data/burak.csv')
 
         #Run command
-        media = "cd media && conda run -n mp python mypose.py 0 0.0000001 1 1 w 1 1 burak 1 "+ str(expr_no)+" 0 0"
+        media = "cd media && conda run -n mp python mypose.py 1 1 1"
         
         #Run mediapipe
         proc = subprocess.Popen(media,shell=True)

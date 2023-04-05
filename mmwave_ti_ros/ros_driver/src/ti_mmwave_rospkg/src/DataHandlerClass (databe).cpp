@@ -722,33 +722,95 @@ char ttt[250]="";
                       char c4[250] = " ; exec bash'";
                       char tsc[10]=" ";
 
-					if (1==0){
-                    			printf("\n*************************************************** \n" );
-                    			printf("\n  hey yooo \n" );
 
-                                        printf("timestamp                  :: %f\n", fractional_seconds_since_epoch);
+                    //printf("\n*************************************************** \n" );
+                    //printf("\n  hey yooo \n" );
 
-                                        printf("date                       :: %s",   t);
-                                        printf("Deney-Frame no-Obj/Ind     :: %d - %d - %d / %d \n",son_deney,son_radar, mmwData.numObjOut,i+1);
-                                        printf("RScan->points[%d].x         :: %f \n",i+1,RScan->points[i].x);
-                                        printf("RScan->points[%d].y         :: %f \n",i+1,-RScan->points[i].z);
-                                        printf("RScan->points[%d].z         :: %f \n",i+1,RScan->points[i].y);
-                                        printf("RScan->points[%d].vel       :: %f \n",i+1,RScan->points[i].velocity);
-                                        printf("RScan->points[%d].intensity :: %f  \n\n",i+1,RScan->points[i].intensity);
-}
+                                        //printf("timestamp                  :: %f\n", fractional_seconds_since_epoch);
                                         time_t givemetime = time(NULL);
                                         char *t=ctime(&givemetime);
-					
+                                        //printf("date                       :: %s",   t);
+                                        //printf("Deney-Frame no-Obj/Ind     :: %d - %d - %d / %d \n",son_deney,son_radar, mmwData.numObjOut,i+1);
+                                        //printf("RScan->points[%d].x         :: %f \n",i+1,RScan->points[i].y);
+                                        //printf("RScan->points[%d].y         :: %f \n",i+1,-RScan->points[i].x);
+                                        //printf("RScan->points[%d].z         :: %f \n",i+1,RScan->points[i].z);
+                                        //printf("RScan->points[%d].vel       :: %f \n",i+1,RScan->points[i].velocity);
+                                        //printf("RScan->points[%d].intensity :: %f  \n\n",i+1,RScan->points[i].intensity);
+
                                         strcat(ttt, kimlik); strcat(ttt, tsc);strcat(ttt, t);
 
                                         //char bas[250]="",buffer [250];
+                                        char sqlchar[500]; 
 
                                         if (1==0)bbb=sprintf (buffer, "%d,%d,%d,%d,%f,%f,%f,%f,%f,%f,%s,%s",son_deney,son_radar,mmwData.numObjOut,i ,radarscan.y,-radarscan.x,radarscan.z,radarscan.velocity,radarscan.intensity,fractional_seconds_since_epoch,kimlik,t);
-                                        else     bbb=sprintf (buffer, "%d,%d,%d,%d,%f,%f,%f,%f,%f,%f,%s,%s", son_deney,son_radar,mmwData.numObjOut,i ,RScan->points[i].x,-RScan->points[i].z,RScan->points[i].y,RScan->points[i].velocity,RScan->points[i].intensity,fractional_seconds_since_epoch,kimlik,t);
+                                        else     bbb=sprintf (buffer, "%d,%d,%d,%d,%f,%f,%f,%f,%f,%f,%s,%s", son_deney,son_radar,mmwData.numObjOut,i ,RScan->points[i].y,-RScan->points[i].x,RScan->points[i].z,RScan->points[i].velocity,RScan->points[i].intensity,fractional_seconds_since_epoch,kimlik,t);
+                                        sprintf (sqlchar, "INSERT INTO [dbo].[RadarDatas]([rdr_experiment_no],[rdr_frame_no],[rdr_total_points_in_frame],[rdr_point_no_in_frame],[rdr_y_radar],[rdr_x_radar],[rdr_z_radar],[rdr_vel_radar],[rdr_intensity_radar],[rdr_timestamp],[rdr_user],[rdr_date]) VALUES(%d,%d,%d,%d,%f,%f,%f,%f,%f,%f,'%s',1250)", son_deney,son_radar,mmwData.numObjOut,i ,RScan->points[i].y,-RScan->points[i].x,RScan->points[i].z,RScan->points[i].velocity,RScan->points[i].intensity,fractional_seconds_since_epoch,kimlik);
+                                        //printf("%s/n",sqlchar);
                                         outdata<<buffer;
                                         cvsdata<<buffer;
                                         ffdd+=1;
                                         int bag=0;
+
+
+
+
+
+
+                                        SQLHANDLE henv;   // Environment Handle
+                                        SQLHANDLE hdbc;   // Connection Handle
+                                        SQLHANDLE hstmt;  // Statement Handle
+                                        SQLRETURN retcode; // Return code
+
+                                        // Environment handle oluşturma
+                                        retcode = SQLAllocHandle(SQL_HANDLE_ENV, SQL_NULL_HANDLE, &henv);
+                                        if (retcode != SQL_SUCCESS && retcode != SQL_SUCCESS_WITH_INFO) {
+                                            std::cout << "Error creating Environment Handle!" << endl;
+                                            //
+                                        }
+
+                                        // ODBC versionunu belirleme
+                                        retcode = SQLSetEnvAttr(henv, SQL_ATTR_ODBC_VERSION, (void*)SQL_OV_ODBC3, 0);
+                                        if (retcode != SQL_SUCCESS && retcode != SQL_SUCCESS_WITH_INFO) {
+                                            std::cout << "Error setting Environment Attribute!" << endl;
+                                            //
+                                        }
+
+                                        // Connection handle oluşturma
+                                        retcode = SQLAllocHandle(SQL_HANDLE_DBC, henv, &hdbc);
+                                        if (retcode != SQL_SUCCESS && retcode != SQL_SUCCESS_WITH_INFO) {
+                                            std::cout << "Error creating Connection Handle!" << endl;
+                                            //
+                                        }
+
+                                        // Veritabanına bağlanma
+                                        SQLCHAR* connStr = (SQLCHAR*)"DRIVER={ODBC Driver 18 for SQL Server};SERVER=193.35.200.106;DATABASE=Prevla;UID=SA;PWD=hP337^9nArG&;TrustServerCertificate=Yes";
+                                        retcode = SQLDriverConnect(hdbc, NULL, connStr, SQL_NTS, NULL, 0, NULL, SQL_DRIVER_NOPROMPT);
+                                        if (retcode != SQL_SUCCESS && retcode != SQL_SUCCESS_WITH_INFO) {
+                                            std::cout << "Error connecting to Database!" << endl;
+                                            //
+                                        }
+
+                                        // Statement handle oluşturma
+                                        retcode = SQLAllocHandle(SQL_HANDLE_STMT, hdbc, &hstmt);
+                                        if (retcode != SQL_SUCCESS && retcode != SQL_SUCCESS_WITH_INFO) {
+                                            std::cout << "Error creating Statement Handle!" << endl;
+                                            //
+                                        }
+
+                                        // Sorgu çalıştırma
+                                        retcode = SQLExecDirect(hstmt, (SQLCHAR*)sqlchar, SQL_NTS);
+                                        if (retcode != SQL_SUCCESS && retcode != SQL_SUCCESS_WITH_INFO) {
+                                            std::cout << "Error executing query!" << endl;
+                                            ////
+                                        }
+
+                                        //std::cout << "Data inserted successfully!" << endl;
+
+                                        // Handle'ların serbest bırakılması
+                                        SQLFreeHandle(SQL_HANDLE_STMT, hstmt);
+                                        SQLDisconnect(hdbc);
+                                        SQLFreeHandle(SQL_HANDLE_DBC, hdbc);
+                                        SQLFreeHandle(SQL_HANDLE_ENV, henv);
 
                                         if (bag==0){
 
@@ -1134,6 +1196,6 @@ void DataUARTHandler::visualize(const ti_mmwave_rospkg::RadarScan &msg){
     marker.color.g = (int) 255 * msg.intensity;
     marker.color.b = 1;
 
-    //marker_pub.publish(marker);}
+  //  marker_pub.publish(marker);}
 }
 }
