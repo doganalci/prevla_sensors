@@ -16,9 +16,8 @@ import matplotlib
 #######################################
 #Parameters
 
-ploting = int(sys.argv[1])
-deney_no = int(sys.argv[2]) # 0 dı
-isHandOpen = bool(int(sys.argv[3]))
+
+isHandOpen = bool(int(sys.argv[1]))
 
 ########################################
 
@@ -26,8 +25,8 @@ isHandOpen = bool(int(sys.argv[3]))
 ########################################
 
 #ODBC Serverine databaseden alınan "connection string" ile bağlanıldı.
-cnxn = pyodbc.connect('DRIVER={ODBC Driver 18 for SQL Server};SERVER=193.35.200.106;DATABASE=Prevla;UID=SA;PWD=hP337^9nArG&;TrustServerCertificate=Yes')
-print(cnxn,"Bağlandı")
+#cnxn = pyodbc.connect('DRIVER={ODBC Driver 18 for SQL Server};SERVER=193.35.200.106;DATABASE=Prevla;UID=SA;PWD=hP337^9nArG&;TrustServerCertificate=Yes')
+#print(cnxn,"Bağlandı")
 
 ########################################
 
@@ -238,12 +237,12 @@ while True:
             dataBaseList.append(hand_x_NormalizePoints[index])
             dataBaseList.append(hand_y_NormalizePoints[index])
 
-        cursor = cnxn.cursor()
+        #cursor = cnxn.cursor()
         with open("sql.txt" ,'r') as my_file:
             sql = my_file.read()    
 
-        cursor.execute(sql,tuple(dataBaseList))
-        cnxn.commit()
+        #cursor.execute(sql,tuple(dataBaseList))
+        #cnxn.commit()
         
         out1 = csv.writer(open('/home/inosens/Desktop/data_collection/sensor_data/burak.csv', 'a')) #data base'e gidecek olan data
         out1.writerow(dataBaseList)

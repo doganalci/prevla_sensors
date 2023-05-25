@@ -1,22 +1,22 @@
 Determining if the pthread_create exist failed with the following output:
 Change Dir: /home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_f6cac/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f6cac.dir/build.make CMakeFiles/cmTC_f6cac.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_c87c0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c87c0.dir/build.make CMakeFiles/cmTC_c87c0.dir/build
 make[1]: Entering directory '/home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_f6cac.dir/CheckSymbolExists.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_f6cac.dir/CheckSymbolExists.c.o   -c /home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_f6cac
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f6cac.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_f6cac.dir/CheckSymbolExists.c.o  -o cmTC_f6cac 
-CMakeFiles/cmTC_f6cac.dir/CheckSymbolExists.c.o: In function `main':
+Building C object CMakeFiles/cmTC_c87c0.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_c87c0.dir/CheckSymbolExists.c.o   -c /home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_c87c0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c87c0.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_c87c0.dir/CheckSymbolExists.c.o  -o cmTC_c87c0 
+CMakeFiles/cmTC_c87c0.dir/CheckSymbolExists.c.o: In function `main':
 CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_f6cac.dir/build.make:97: recipe for target 'cmTC_f6cac' failed
-make[1]: *** [cmTC_f6cac] Error 1
+CMakeFiles/cmTC_c87c0.dir/build.make:97: recipe for target 'cmTC_c87c0' failed
+make[1]: *** [cmTC_c87c0] Error 1
 make[1]: Leaving directory '/home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_f6cac/fast' failed
-make: *** [cmTC_f6cac/fast] Error 2
+Makefile:126: recipe for target 'cmTC_c87c0/fast' failed
+make: *** [cmTC_c87c0/fast] Error 2
 
 File /home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
@@ -36,20 +36,20 @@ int main(int argc, char** argv)
 Determining if the function pthread_create exists in the pthreads failed with the following output:
 Change Dir: /home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_3c888/fast"
-/usr/bin/make -f CMakeFiles/cmTC_3c888.dir/build.make CMakeFiles/cmTC_3c888.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_45e69/fast"
+/usr/bin/make -f CMakeFiles/cmTC_45e69.dir/build.make CMakeFiles/cmTC_45e69.dir/build
 make[1]: Entering directory '/home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_3c888.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_3c888.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
-Linking C executable cmTC_3c888
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3c888.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_3c888.dir/CheckFunctionExists.c.o  -o cmTC_3c888 -lpthreads 
+Building C object CMakeFiles/cmTC_45e69.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_45e69.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_45e69
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_45e69.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_45e69.dir/CheckFunctionExists.c.o  -o cmTC_45e69 -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_3c888.dir/build.make:97: recipe for target 'cmTC_3c888' failed
-make[1]: *** [cmTC_3c888] Error 1
+CMakeFiles/cmTC_45e69.dir/build.make:97: recipe for target 'cmTC_45e69' failed
+make[1]: *** [cmTC_45e69] Error 1
 make[1]: Leaving directory '/home/inosens/Desktop/prevla_sensors/mmwave_ti_ros/ros_driver/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_3c888/fast' failed
-make: *** [cmTC_3c888/fast] Error 2
+Makefile:126: recipe for target 'cmTC_45e69/fast' failed
+make: *** [cmTC_45e69/fast] Error 2
 
 

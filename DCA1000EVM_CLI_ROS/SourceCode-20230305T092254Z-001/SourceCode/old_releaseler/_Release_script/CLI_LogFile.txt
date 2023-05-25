@@ -1,0 +1,1809 @@
+
+Thu Mar 30 15:14:45 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 15:14:55 2023
+FPGA Configuration : 
+OS error - -2
+
+Thu Mar 30 15:14:55 2023
+Return status : -2
+
+Thu Mar 30 15:15:50 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 15:16:00 2023
+FPGA Configuration : 
+OS error - -2
+
+Thu Mar 30 15:16:00 2023
+Return status : -2
+
+Thu Mar 30 15:17:06 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 15:17:16 2023
+FPGA Configuration : 
+OS error - -2
+
+Thu Mar 30 15:17:16 2023
+Return status : -2
+
+Thu Mar 30 15:21:39 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 15:21:49 2023
+FPGA Configuration : 
+OS error - -2
+
+Thu Mar 30 15:21:49 2023
+Return status : -2
+
+Thu Mar 30 15:22:02 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 15:22:12 2023
+FPGA Configuration : 
+OS error - -2
+
+Thu Mar 30 15:22:12 2023
+Return status : -2
+
+Thu Mar 30 15:22:31 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 15:22:41 2023
+FPGA Configuration : 
+OS error - -2
+
+Thu Mar 30 15:22:41 2023
+Return status : -2
+
+Thu Mar 30 15:22:44 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 15:22:54 2023
+FPGA Configuration : 
+OS error - -2
+
+Thu Mar 30 15:22:54 2023
+Return status : -2
+
+Thu Mar 30 15:33:31 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection
+
+Thu Mar 30 15:33:33 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection
+
+Thu Mar 30 15:33:34 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 15:33:42 2023
+FPGA Configuration : 
+OS error - -2
+
+Thu Mar 30 15:33:42 2023
+Return status : -2
+
+Thu Mar 30 15:33:42 2023
+Configure Record Command (req)
+
+Thu Mar 30 15:37:29 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 15:37:39 2023
+FPGA Configuration : 
+OS error - -2
+
+Thu Mar 30 15:37:39 2023
+Return status : -2
+
+Thu Mar 30 15:37:39 2023
+Configure Record Command (req)
+
+Thu Mar 30 15:37:50 2023
+Configure Record : 
+OS error - -2
+
+Thu Mar 30 15:37:50 2023
+Return status : -2
+
+Thu Mar 30 15:37:50 2023
+Start Record Command (req)
+
+Thu Mar 30 15:38:00 2023
+System is disconnected.
+
+Thu Mar 30 15:38:00 2023
+Return status : -2
+
+Thu Mar 30 15:42:18 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 15:42:28 2023
+FPGA Configuration : 
+OS error - -2
+
+Thu Mar 30 15:42:28 2023
+Return status : -2
+
+Thu Mar 30 15:45:14 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 15:45:14 2023
+FPGA Configuration command : Success
+
+Thu Mar 30 15:45:14 2023
+Return status : 0
+
+Thu Mar 30 15:46:09 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 15:46:09 2023
+FPGA Configuration command : Success
+
+Thu Mar 30 15:46:09 2023
+Return status : 0
+
+Thu Mar 30 15:46:09 2023
+Configure Record Command (req)
+
+Thu Mar 30 15:46:09 2023
+Configure Record command : Success
+
+Thu Mar 30 15:46:09 2023
+Return status : 0
+
+Thu Mar 30 15:46:09 2023
+Start Record Command (req)
+
+Thu Mar 30 15:46:09 2023
+Start Record Command (req)
+
+Thu Mar 30 15:46:09 2023
+Start Record command : Success
+
+Thu Mar 30 15:46:09 2023
+Start Record command : Success
+
+Thu Mar 30 15:46:09 2023
+Return status : 0
+
+Thu Mar 30 15:46:14 2023
+Record is completed
+
+Thu Mar 30 16:07:34 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 16:07:34 2023
+FPGA Configuration command : Success
+
+Thu Mar 30 16:07:34 2023
+Return status : 0
+
+Thu Mar 30 16:07:34 2023
+Configure Record Command (req)
+
+Thu Mar 30 16:07:34 2023
+Configure Record command : Success
+
+Thu Mar 30 16:07:34 2023
+Return status : 0
+
+Thu Mar 30 16:07:34 2023
+Start Record Command (req)
+
+Thu Mar 30 16:07:34 2023
+Start Record Command (req)
+
+Thu Mar 30 16:07:34 2023
+Start Record command : Success
+
+Thu Mar 30 16:07:34 2023
+Return status : 0
+
+Thu Mar 30 16:07:35 2023
+Start Record command : Success
+
+Thu Mar 30 16:07:39 2023
+Record is completed
+
+Thu Mar 30 16:08:19 2023
+fpga
+
+Thu Mar 30 16:08:19 2023
+Stop the already running process.
+
+Thu Mar 30 16:08:19 2023
+record
+
+Thu Mar 30 16:08:19 2023
+Stop the already running process.
+
+Thu Mar 30 16:08:19 2023
+start_record
+
+Thu Mar 30 16:08:19 2023
+Stop the already running process.
+
+Thu Mar 30 16:10:57 2023
+fpga
+
+Thu Mar 30 16:10:57 2023
+Stop the already running process.
+
+Thu Mar 30 16:10:57 2023
+record
+
+Thu Mar 30 16:10:57 2023
+Stop the already running process.
+
+Thu Mar 30 16:10:57 2023
+start_record
+
+Thu Mar 30 16:10:57 2023
+Stop the already running process.
+
+Thu Mar 30 16:11:59 2023
+fpga
+
+Thu Mar 30 16:11:59 2023
+Stop the already running process.
+
+Thu Mar 30 16:11:59 2023
+record
+
+Thu Mar 30 16:11:59 2023
+Stop the already running process.
+
+Thu Mar 30 16:12:33 2023
+fpga
+
+Thu Mar 30 16:12:33 2023
+Stop the already running process.
+
+Thu Mar 30 16:12:33 2023
+reset_ar_device
+
+Thu Mar 30 16:12:33 2023
+Stop the already running process.
+
+Thu Mar 30 16:13:29 2023
+Stop Record Command (req)
+
+Thu Mar 30 16:13:37 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Mar 30 16:14:23 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 16:14:23 2023
+FPGA Configuration command : Success
+
+Thu Mar 30 16:14:23 2023
+Return status : 0
+
+Thu Mar 30 16:14:23 2023
+Configure Record Command (req)
+
+Thu Mar 30 16:14:23 2023
+Configure Record command : Success
+
+Thu Mar 30 16:14:23 2023
+Return status : 0
+
+Thu Mar 30 16:14:23 2023
+Start Record Command (req)
+
+Thu Mar 30 16:14:23 2023
+Start Record Command (req)
+
+Thu Mar 30 16:14:23 2023
+Start Record command : Success
+
+Thu Mar 30 16:14:23 2023
+Start Record command : Success
+
+Thu Mar 30 16:14:23 2023
+Return status : 0
+
+Thu Mar 30 16:14:28 2023
+Record is completed
+
+Thu Mar 30 16:16:08 2023
+Stop Record Command (req)
+
+Thu Mar 30 16:16:16 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Mar 30 16:17:54 2023
+Ethernet connection
+
+Thu Mar 30 16:17:54 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:17:54 2023
+Ethernet connection
+
+Thu Mar 30 16:17:54 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:17:54 2023
+Ethernet connection
+
+Thu Mar 30 16:17:54 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:18:22 2023
+Ethernet connection
+
+Thu Mar 30 16:18:22 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:18:22 2023
+Ethernet connection
+
+Thu Mar 30 16:18:22 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:18:22 2023
+Ethernet connection
+
+Thu Mar 30 16:18:22 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:19:22 2023
+Ethernet connection
+
+Thu Mar 30 16:19:22 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:19:22 2023
+Ethernet connection
+
+Thu Mar 30 16:19:22 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:19:22 2023
+Ethernet connection
+
+Thu Mar 30 16:19:22 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:19:32 2023
+stop_record
+
+Thu Mar 30 16:19:32 2023
+No record process is running.
+
+Thu Mar 30 16:20:17 2023
+Ethernet connection
+
+Thu Mar 30 16:20:17 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:17 2023
+Ethernet connection
+
+Thu Mar 30 16:20:17 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:17 2023
+Ethernet connection
+
+Thu Mar 30 16:20:17 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:50 2023
+Ethernet connection
+
+Thu Mar 30 16:20:50 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:50 2023
+Ethernet connection
+
+Thu Mar 30 16:20:50 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:50 2023
+Ethernet connection
+
+Thu Mar 30 16:20:50 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:51 2023
+Ethernet connection
+
+Thu Mar 30 16:20:51 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:51 2023
+Ethernet connection
+
+Thu Mar 30 16:20:51 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:51 2023
+Ethernet connection
+
+Thu Mar 30 16:20:51 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:52 2023
+Ethernet connection
+
+Thu Mar 30 16:20:52 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:52 2023
+Ethernet connection
+
+Thu Mar 30 16:20:52 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:52 2023
+Ethernet connection
+
+Thu Mar 30 16:20:52 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:53 2023
+Ethernet connection
+
+Thu Mar 30 16:20:53 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:53 2023
+Ethernet connection
+
+Thu Mar 30 16:20:53 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:20:53 2023
+Ethernet connection
+
+Thu Mar 30 16:20:53 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:21:47 2023
+Ethernet connection
+
+Thu Mar 30 16:21:47 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:21:47 2023
+Ethernet connection
+
+Thu Mar 30 16:21:47 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:21:47 2023
+Ethernet connection
+
+Thu Mar 30 16:21:47 2023
+Ethernet connection failed. [error -4051]
+
+Thu Mar 30 16:26:46 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 16:26:46 2023
+FPGA Configuration command : Success
+
+Thu Mar 30 16:26:46 2023
+Return status : 0
+
+Thu Mar 30 16:26:46 2023
+Configure Record Command (req)
+
+Thu Mar 30 16:26:46 2023
+Configure Record command : Success
+
+Thu Mar 30 16:26:46 2023
+Return status : 0
+
+Thu Mar 30 16:26:46 2023
+Start Record Command (req)
+
+Thu Mar 30 16:26:46 2023
+Start Record Command (req)
+
+Thu Mar 30 16:26:46 2023
+Start Record command : Success
+
+Thu Mar 30 16:26:46 2023
+Return status : 0
+
+Thu Mar 30 16:26:47 2023
+Start Record command : Success
+
+Thu Mar 30 16:26:51 2023
+Record is completed
+
+Thu Mar 30 16:28:32 2023
+Stop Record Command (req)
+
+Thu Mar 30 16:28:39 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Mar 30 16:29:38 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 16:29:38 2023
+FPGA Configuration command : Success
+
+Thu Mar 30 16:29:38 2023
+Return status : 0
+
+Thu Mar 30 16:29:38 2023
+Configure Record Command (req)
+
+Thu Mar 30 16:29:38 2023
+Configure Record command : Success
+
+Thu Mar 30 16:29:38 2023
+Return status : 0
+
+Thu Mar 30 16:29:38 2023
+Start Record Command (req)
+
+Thu Mar 30 16:29:38 2023
+Start Record Command (req)
+
+Thu Mar 30 16:29:38 2023
+Start Record command : Success
+
+Thu Mar 30 16:29:38 2023
+Start Record command : Success
+
+Thu Mar 30 16:29:38 2023
+Return status : 0
+
+Thu Mar 30 16:29:43 2023
+Record is completed
+
+Thu Mar 30 16:30:19 2023
+Stop Record Command (req)
+
+Thu Mar 30 16:30:26 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Mar 30 16:30:51 2023
+stop_record
+
+Thu Mar 30 16:30:51 2023
+No record process is running.
+
+Thu Mar 30 16:31:31 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 16:31:31 2023
+FPGA Configuration command : Success
+
+Thu Mar 30 16:31:31 2023
+Return status : 0
+
+Thu Mar 30 16:31:31 2023
+Configure Record Command (req)
+
+Thu Mar 30 16:31:31 2023
+Configure Record command : Success
+
+Thu Mar 30 16:31:31 2023
+Return status : 0
+
+Thu Mar 30 16:31:31 2023
+Start Record Command (req)
+
+Thu Mar 30 16:31:31 2023
+Start Record Command (req)
+
+Thu Mar 30 16:31:31 2023
+Start Record command : Success
+
+Thu Mar 30 16:31:31 2023
+Start Record command : Success
+
+Thu Mar 30 16:31:31 2023
+Return status : 0
+
+Thu Mar 30 16:31:36 2023
+Record is completed
+
+Thu Mar 30 16:31:51 2023
+Stop Record Command (req)
+
+Thu Mar 30 16:31:58 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Mar 30 16:33:43 2023
+FPGA Configuration Command (req)
+
+Thu Mar 30 16:33:43 2023
+FPGA Configuration command : Success
+
+Thu Mar 30 16:33:43 2023
+Return status : 0
+
+Thu Mar 30 16:33:43 2023
+Configure Record Command (req)
+
+Thu Mar 30 16:33:43 2023
+Configure Record command : Success
+
+Thu Mar 30 16:33:43 2023
+Return status : 0
+
+Thu Mar 30 16:33:43 2023
+Start Record Command (req)
+
+Thu Mar 30 16:33:43 2023
+Start Record Command (req)
+
+Thu Mar 30 16:33:43 2023
+Start Record command : Success
+
+Thu Mar 30 16:33:43 2023
+Start Record command : Success
+
+Thu Mar 30 16:33:43 2023
+Return status : 0
+
+Thu Mar 30 16:33:48 2023
+Record is completed
+
+Fri Mar 31 09:42:21 2023
+Stop Record Command (req)
+
+Fri Mar 31 09:42:29 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Sat Apr  1 16:03:35 2023
+FPGA Configuration Command (req)
+
+Sat Apr  1 16:03:35 2023
+FPGA Configuration command : Success
+
+Sat Apr  1 16:03:35 2023
+Return status : 0
+
+Sat Apr  1 16:03:35 2023
+Configure Record Command (req)
+
+Sat Apr  1 16:03:35 2023
+Configure Record command : Success
+
+Sat Apr  1 16:03:35 2023
+Return status : 0
+
+Sat Apr  1 16:03:35 2023
+Start Record Command (req)
+
+Sat Apr  1 16:03:35 2023
+Start Record Command (req)
+
+Sat Apr  1 16:03:35 2023
+Start Record command : Success
+
+Sat Apr  1 16:03:35 2023
+Return status : 0
+
+Sat Apr  1 16:03:35 2023
+Start Record command : Success
+
+Sun Apr  2 16:36:11 2023
+fpga
+
+Sun Apr  2 16:36:11 2023
+Stop the already running process.
+
+Sun Apr  2 16:36:11 2023
+record
+
+Sun Apr  2 16:36:11 2023
+Stop the already running process.
+
+Sun Apr  2 16:36:11 2023
+start_record
+
+Sun Apr  2 16:36:11 2023
+Stop the already running process.
+
+Sun Apr  2 16:36:46 2023
+fpga
+
+Sun Apr  2 16:36:46 2023
+Stop the already running process.
+
+Sun Apr  2 16:36:46 2023
+record
+
+Sun Apr  2 16:36:46 2023
+Stop the already running process.
+
+Sun Apr  2 16:36:46 2023
+start_record
+
+Sun Apr  2 16:36:46 2023
+Stop the already running process.
+
+Sun Apr  2 16:37:40 2023
+fpga
+
+Sun Apr  2 16:37:40 2023
+Stop the already running process.
+
+Sun Apr  2 16:37:40 2023
+record
+
+Sun Apr  2 16:37:40 2023
+Stop the already running process.
+
+Sun Apr  2 16:37:40 2023
+start_record
+
+Sun Apr  2 16:37:40 2023
+Stop the already running process.
+
+Sun Apr  2 16:38:02 2023
+fpga
+
+Sun Apr  2 16:38:02 2023
+Stop the already running process.
+
+Sun Apr  2 16:38:02 2023
+record
+
+Sun Apr  2 16:38:02 2023
+Stop the already running process.
+
+Sun Apr  2 16:38:02 2023
+start_record
+
+Sun Apr  2 16:38:02 2023
+Stop the already running process.
+
+Sun Apr  2 16:39:22 2023
+Stop Record Command (req)
+
+Sun Apr  2 16:39:29 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Sun Apr  2 16:39:32 2023
+FPGA Configuration Command (req)
+
+Sun Apr  2 16:39:32 2023
+FPGA Configuration command : Success
+
+Sun Apr  2 16:39:32 2023
+Return status : 0
+
+Sun Apr  2 16:39:32 2023
+Configure Record Command (req)
+
+Sun Apr  2 16:39:32 2023
+Configure Record command : Success
+
+Sun Apr  2 16:39:32 2023
+Return status : 0
+
+Sun Apr  2 16:39:32 2023
+Start Record Command (req)
+
+Sun Apr  2 16:39:32 2023
+Start Record Command (req)
+
+Sun Apr  2 16:39:32 2023
+Start Record command : Success
+
+Sun Apr  2 16:39:33 2023
+Start Record command : Success
+
+Sun Apr  2 16:39:33 2023
+Return status : 0
+
+Sun Apr  2 16:40:03 2023
+No LVDS data
+
+Sun Apr  2 16:40:32 2023
+Stop Record Command (req)
+
+Sun Apr  2 16:40:39 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Sun Apr  2 16:40:49 2023
+FPGA Configuration Command (req)
+
+Sun Apr  2 16:40:49 2023
+FPGA Configuration command : Success
+
+Sun Apr  2 16:40:49 2023
+Return status : 0
+
+Sun Apr  2 16:40:49 2023
+Configure Record Command (req)
+
+Sun Apr  2 16:40:49 2023
+Configure Record command : Success
+
+Sun Apr  2 16:40:49 2023
+Return status : 0
+
+Sun Apr  2 16:40:49 2023
+Start Record Command (req)
+
+Sun Apr  2 16:40:49 2023
+Start Record Command (req)
+
+Sun Apr  2 16:40:49 2023
+Start Record command : Success
+
+Sun Apr  2 16:40:49 2023
+Start Record command : Success
+
+Sun Apr  2 16:40:49 2023
+Return status : 0
+
+Sun Apr  2 16:42:08 2023
+Record Process : 
+Timeout Error! System disconnected
+
+Sun Apr  2 16:46:38 2023
+fpga
+
+Sun Apr  2 16:46:38 2023
+Stop the already running process.
+
+Sun Apr  2 16:46:38 2023
+record
+
+Sun Apr  2 16:46:38 2023
+Stop the already running process.
+
+Sun Apr  2 16:46:38 2023
+start_record
+
+Sun Apr  2 16:46:38 2023
+Stop the already running process.
+
+Sun Apr  2 16:58:08 2023
+Stop Record Command (req)
+
+Sun Apr  2 16:58:15 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Sun Apr  2 17:01:18 2023
+stop_record
+
+Sun Apr  2 17:01:18 2023
+No record process is running.
+
+Sun Apr  2 17:22:02 2023
+FPGA Configuration Command (req)
+
+Sun Apr  2 17:22:02 2023
+FPGA Configuration command : Success
+
+Sun Apr  2 17:22:02 2023
+Return status : 0
+
+Sun Apr  2 17:22:02 2023
+Configure Record Command (req)
+
+Sun Apr  2 17:22:02 2023
+Configure Record command : Success
+
+Sun Apr  2 17:22:02 2023
+Return status : 0
+
+Sun Apr  2 17:22:02 2023
+Start Record Command (req)
+
+Sun Apr  2 17:22:02 2023
+Start Record Command (req)
+
+Sun Apr  2 17:22:02 2023
+Start Record command : Success
+
+Sun Apr  2 17:22:02 2023
+Return status : 0
+
+Sun Apr  2 17:22:03 2023
+Start Record command : Success
+
+Sun Apr  2 17:22:32 2023
+No LVDS data
+
+Tue Apr  4 20:49:04 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 20:49:14 2023
+FPGA Configuration : 
+OS error - -2
+
+Tue Apr  4 20:49:14 2023
+Return status : -2
+
+Tue Apr  4 20:49:14 2023
+Configure Record Command (req)
+
+Tue Apr  4 20:49:24 2023
+Configure Record : 
+OS error - -2
+
+Tue Apr  4 20:49:24 2023
+Return status : -2
+
+Tue Apr  4 20:49:24 2023
+Start Record Command (req)
+
+Tue Apr  4 20:49:42 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 20:49:53 2023
+FPGA Configuration : 
+OS error - -2
+
+Tue Apr  4 20:49:53 2023
+Return status : -2
+
+Tue Apr  4 20:50:16 2023
+Reset AR Device Command (req)
+
+Tue Apr  4 20:50:26 2023
+Reset AR Device : 
+OS error - -2
+
+Tue Apr  4 20:50:26 2023
+Return status : -2
+
+Tue Apr  4 20:51:16 2023
+Reset AR Device Command (req)
+
+Tue Apr  4 20:51:26 2023
+Reset AR Device : 
+OS error - -2
+
+Tue Apr  4 20:51:26 2023
+Return status : -2
+
+Tue Apr  4 20:51:29 2023
+stop_record
+
+Tue Apr  4 20:51:29 2023
+No record process is running.
+
+Tue Apr  4 20:51:30 2023
+stop_record
+
+Tue Apr  4 20:51:30 2023
+No record process is running.
+
+Tue Apr  4 20:53:28 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 20:53:28 2023
+FPGA Configuration command : Success
+
+Tue Apr  4 20:53:28 2023
+Return status : 0
+
+Tue Apr  4 20:53:56 2023
+Configure Record Command (req)
+
+Tue Apr  4 20:53:56 2023
+Configure Record command : Success
+
+Tue Apr  4 20:53:56 2023
+Return status : 0
+
+Tue Apr  4 20:54:07 2023
+Start Record Command (req)
+
+Tue Apr  4 20:54:08 2023
+Start Record Command (req)
+
+Tue Apr  4 20:54:08 2023
+Start Record command : Success
+
+Tue Apr  4 20:54:08 2023
+Return status : 0
+
+Tue Apr  4 20:54:08 2023
+Start Record command : Success
+
+Tue Apr  4 20:54:38 2023
+No LVDS data
+
+Tue Apr  4 20:55:45 2023
+Stop Record Command (req)
+
+Tue Apr  4 20:55:53 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Apr  4 20:55:56 2023
+Reset AR Device Command (req)
+
+Tue Apr  4 20:55:56 2023
+Reset AR Device command : Success
+
+Tue Apr  4 20:55:56 2023
+Return status : 0
+
+Tue Apr  4 20:56:07 2023
+Reset AR Device Command (req)
+
+Tue Apr  4 20:56:07 2023
+Reset AR Device command : Success
+
+Tue Apr  4 20:56:07 2023
+Return status : 0
+
+Tue Apr  4 20:56:15 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 20:56:15 2023
+FPGA Configuration command : Success
+
+Tue Apr  4 20:56:15 2023
+Return status : 0
+
+Tue Apr  4 20:56:20 2023
+Start Record Command (req)
+
+Tue Apr  4 20:56:21 2023
+Start Record Command (req)
+
+Tue Apr  4 20:56:21 2023
+Start Record command : Success
+
+Tue Apr  4 20:56:21 2023
+Start Record command : Success
+
+Tue Apr  4 20:56:21 2023
+Return status : 0
+
+Tue Apr  4 20:56:40 2023
+reset_ar_device
+
+Tue Apr  4 20:56:40 2023
+Stop the already running process.
+
+Tue Apr  4 20:56:48 2023
+Stop Record Command (req)
+
+Tue Apr  4 20:56:55 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Apr  4 20:56:58 2023
+Reset AR Device Command (req)
+
+Tue Apr  4 20:56:58 2023
+Reset AR Device command : Success
+
+Tue Apr  4 20:56:58 2023
+Return status : 0
+
+Tue Apr  4 20:57:46 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 20:57:46 2023
+FPGA Configuration command : Success
+
+Tue Apr  4 20:57:46 2023
+Return status : 0
+
+Tue Apr  4 20:57:46 2023
+Configure Record Command (req)
+
+Tue Apr  4 20:57:46 2023
+Configure Record command : Success
+
+Tue Apr  4 20:57:46 2023
+Return status : 0
+
+Tue Apr  4 20:57:46 2023
+Start Record Command (req)
+
+Tue Apr  4 20:57:46 2023
+Start Record Command (req)
+
+Tue Apr  4 20:57:46 2023
+Start Record command : Success
+
+Tue Apr  4 20:57:46 2023
+Start Record command : Success
+
+Tue Apr  4 20:57:46 2023
+Return status : 0
+
+Tue Apr  4 20:58:39 2023
+fpga
+
+Tue Apr  4 20:58:39 2023
+Stop the already running process.
+
+Tue Apr  4 20:58:39 2023
+reset_ar_device
+
+Tue Apr  4 20:58:39 2023
+Stop the already running process.
+
+Tue Apr  4 20:58:53 2023
+fpga
+
+Tue Apr  4 20:58:53 2023
+Stop the already running process.
+
+Tue Apr  4 20:58:53 2023
+reset_ar_device
+
+Tue Apr  4 20:58:53 2023
+Stop the already running process.
+
+Tue Apr  4 21:00:13 2023
+fpga
+
+Tue Apr  4 21:00:13 2023
+Stop the already running process.
+
+Tue Apr  4 21:00:13 2023
+reset_ar_device
+
+Tue Apr  4 21:00:13 2023
+Stop the already running process.
+
+Tue Apr  4 21:01:55 2023
+fpga
+
+Tue Apr  4 21:01:55 2023
+Stop the already running process.
+
+Tue Apr  4 21:01:55 2023
+record
+
+Tue Apr  4 21:01:55 2023
+Stop the already running process.
+
+Tue Apr  4 21:01:55 2023
+start_record
+
+Tue Apr  4 21:01:55 2023
+Stop the already running process.
+
+Tue Apr  4 21:02:18 2023
+fpga
+
+Tue Apr  4 21:02:18 2023
+Stop the already running process.
+
+Tue Apr  4 21:02:18 2023
+reset_ar_device
+
+Tue Apr  4 21:02:18 2023
+Stop the already running process.
+
+Tue Apr  4 21:02:27 2023
+fpga
+
+Tue Apr  4 21:02:27 2023
+Stop the already running process.
+
+Tue Apr  4 21:02:27 2023
+Stop Record Command (req)
+
+Tue Apr  4 21:02:35 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Apr  4 21:03:09 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 21:03:09 2023
+FPGA Configuration command : Success
+
+Tue Apr  4 21:03:09 2023
+Return status : 0
+
+Tue Apr  4 21:03:09 2023
+Configure Record Command (req)
+
+Tue Apr  4 21:03:09 2023
+Configure Record command : Success
+
+Tue Apr  4 21:03:09 2023
+Return status : 0
+
+Tue Apr  4 21:03:09 2023
+Start Record Command (req)
+
+Tue Apr  4 21:03:09 2023
+Start Record Command (req)
+
+Tue Apr  4 21:03:09 2023
+Start Record command : Success
+
+Tue Apr  4 21:03:09 2023
+Start Record command : Success
+
+Tue Apr  4 21:03:09 2023
+Return status : 0
+
+Tue Apr  4 21:03:32 2023
+fpga
+
+Tue Apr  4 21:03:32 2023
+Stop the already running process.
+
+Tue Apr  4 21:03:32 2023
+Stop Record Command (req)
+
+Tue Apr  4 21:03:39 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Apr  4 21:04:33 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 21:04:33 2023
+FPGA Configuration command : Success
+
+Tue Apr  4 21:04:33 2023
+Return status : 0
+
+Tue Apr  4 21:04:33 2023
+Configure Record Command (req)
+
+Tue Apr  4 21:04:33 2023
+Configure Record command : Success
+
+Tue Apr  4 21:04:33 2023
+Return status : 0
+
+Tue Apr  4 21:04:33 2023
+Start Record Command (req)
+
+Tue Apr  4 21:04:33 2023
+Start Record Command (req)
+
+Tue Apr  4 21:04:33 2023
+Start Record command : Success
+
+Tue Apr  4 21:04:33 2023
+Start Record command : Success
+
+Tue Apr  4 21:04:33 2023
+Return status : 0
+
+Tue Apr  4 21:04:38 2023
+Record is completed
+
+Tue Apr  4 21:04:52 2023
+fpga
+
+Tue Apr  4 21:04:52 2023
+Stop the already running process.
+
+Tue Apr  4 21:04:52 2023
+Stop Record Command (req)
+
+Tue Apr  4 21:05:00 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Apr  4 21:05:04 2023
+Ethernet connection
+
+Tue Apr  4 21:05:04 2023
+Ethernet connection failed. [error -4051]
+
+Tue Apr  4 21:05:04 2023
+Ethernet connection
+
+Tue Apr  4 21:05:04 2023
+Ethernet connection failed. [error -4051]
+
+Tue Apr  4 21:05:04 2023
+Ethernet connection
+
+Tue Apr  4 21:05:04 2023
+Ethernet connection failed. [error -4051]
+
+Tue Apr  4 21:05:11 2023
+Ethernet connection
+
+Tue Apr  4 21:05:11 2023
+Ethernet connection failed. [error -4051]
+
+Tue Apr  4 21:05:11 2023
+Ethernet connection
+
+Tue Apr  4 21:05:11 2023
+Ethernet connection failed. [error -4051]
+
+Tue Apr  4 21:05:15 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 21:05:15 2023
+FPGA Configuration command : Success
+
+Tue Apr  4 21:05:15 2023
+Return status : 0
+
+Tue Apr  4 21:05:15 2023
+Configure Record Command (req)
+
+Tue Apr  4 21:05:15 2023
+Configure Record command : Success
+
+Tue Apr  4 21:05:15 2023
+Return status : 0
+
+Tue Apr  4 21:05:15 2023
+Start Record Command (req)
+
+Tue Apr  4 21:05:15 2023
+Start Record Command (req)
+
+Tue Apr  4 21:05:15 2023
+Start Record command : Success
+
+Tue Apr  4 21:05:15 2023
+Start Record command : Success
+
+Tue Apr  4 21:05:15 2023
+Return status : 0
+
+Tue Apr  4 21:05:20 2023
+Record is completed
+
+Tue Apr  4 21:05:27 2023
+fpga
+
+Tue Apr  4 21:05:27 2023
+Stop the already running process.
+
+Tue Apr  4 21:05:27 2023
+reset_ar_device
+
+Tue Apr  4 21:05:27 2023
+Stop the already running process.
+
+Tue Apr  4 21:05:39 2023
+fpga
+
+Tue Apr  4 21:05:39 2023
+Stop the already running process.
+
+Tue Apr  4 21:05:39 2023
+record
+
+Tue Apr  4 21:05:39 2023
+Stop the already running process.
+
+Tue Apr  4 21:05:39 2023
+start_record
+
+Tue Apr  4 21:05:39 2023
+Stop the already running process.
+
+Tue Apr  4 21:05:42 2023
+fpga
+
+Tue Apr  4 21:05:42 2023
+Stop the already running process.
+
+Tue Apr  4 21:05:42 2023
+record
+
+Tue Apr  4 21:05:42 2023
+Stop the already running process.
+
+Tue Apr  4 21:05:42 2023
+start_record
+
+Tue Apr  4 21:05:42 2023
+Stop the already running process.
+
+Tue Apr  4 21:05:46 2023
+fpga
+
+Tue Apr  4 21:05:46 2023
+Stop the already running process.
+
+Tue Apr  4 21:05:46 2023
+reset_ar_device
+
+Tue Apr  4 21:05:46 2023
+Stop the already running process.
+
+Tue Apr  4 21:06:41 2023
+fpga
+
+Tue Apr  4 21:06:41 2023
+Stop the already running process.
+
+Tue Apr  4 21:06:41 2023
+Stop Record Command (req)
+
+Tue Apr  4 21:06:49 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Apr  4 21:06:49 2023
+Reset AR Device Command (req)
+
+Tue Apr  4 21:06:49 2023
+Reset AR Device command : Success
+
+Tue Apr  4 21:06:49 2023
+Return status : 0
+
+Tue Apr  4 21:06:52 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 21:06:52 2023
+FPGA Configuration command : Success
+
+Tue Apr  4 21:06:52 2023
+Return status : 0
+
+Tue Apr  4 21:06:52 2023
+Configure Record Command (req)
+
+Tue Apr  4 21:06:52 2023
+Configure Record command : Success
+
+Tue Apr  4 21:06:52 2023
+Return status : 0
+
+Tue Apr  4 21:06:52 2023
+Start Record Command (req)
+
+Tue Apr  4 21:06:52 2023
+Start Record Command (req)
+
+Tue Apr  4 21:06:52 2023
+Start Record command : Success
+
+Tue Apr  4 21:06:52 2023
+Start Record command : Success
+
+Tue Apr  4 21:06:52 2023
+Return status : 0
+
+Tue Apr  4 21:07:23 2023
+fpga
+
+Tue Apr  4 21:07:23 2023
+Stop the already running process.
+
+Tue Apr  4 21:07:23 2023
+Stop Record Command (req)
+
+Tue Apr  4 21:07:31 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Apr  4 21:07:31 2023
+Reset AR Device Command (req)
+
+Tue Apr  4 21:07:31 2023
+Reset AR Device command : Success
+
+Tue Apr  4 21:07:31 2023
+Return status : 0
+
+Tue Apr  4 21:07:33 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 21:07:33 2023
+FPGA Configuration command : Success
+
+Tue Apr  4 21:07:33 2023
+Return status : 0
+
+Tue Apr  4 21:07:33 2023
+Configure Record Command (req)
+
+Tue Apr  4 21:07:33 2023
+Configure Record command : Success
+
+Tue Apr  4 21:07:33 2023
+Return status : 0
+
+Tue Apr  4 21:07:33 2023
+Start Record Command (req)
+
+Tue Apr  4 21:07:34 2023
+Start Record Command (req)
+
+Tue Apr  4 21:07:34 2023
+Start Record command : Success
+
+Tue Apr  4 21:07:34 2023
+Start Record command : Success
+
+Tue Apr  4 21:07:34 2023
+Return status : 0
+
+Tue Apr  4 21:08:53 2023
+Record Process : 
+Timeout Error! System disconnected
+
+Tue Apr  4 21:14:24 2023
+fpga
+
+Tue Apr  4 21:14:24 2023
+Stop the already running process.
+
+Tue Apr  4 21:14:24 2023
+Stop Record Command (req)
+
+Tue Apr  4 21:14:32 2023
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Apr  4 21:14:32 2023
+Ethernet connection
+
+Tue Apr  4 21:14:32 2023
+Ethernet connection failed. [error -4051]
+
+Tue Apr  4 21:15:47 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 21:15:47 2023
+FPGA Configuration command : Success
+
+Tue Apr  4 21:15:47 2023
+Return status : 0
+
+Tue Apr  4 21:15:47 2023
+stop_record
+
+Tue Apr  4 21:15:47 2023
+No record process is running.
+
+Tue Apr  4 21:15:47 2023
+Reset AR Device Command (req)
+
+Tue Apr  4 21:15:47 2023
+Reset AR Device command : Success
+
+Tue Apr  4 21:15:47 2023
+Return status : 0
+
+Tue Apr  4 21:21:33 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 21:21:33 2023
+FPGA Configuration command : Success
+
+Tue Apr  4 21:21:33 2023
+Return status : 0
+
+Tue Apr  4 21:21:33 2023
+stop_record
+
+Tue Apr  4 21:21:33 2023
+No record process is running.
+
+Tue Apr  4 21:21:33 2023
+Reset AR Device Command (req)
+
+Tue Apr  4 21:21:33 2023
+Reset AR Device command : Success
+
+Tue Apr  4 21:21:33 2023
+Return status : 0
+
+Tue Apr  4 21:22:42 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 21:22:42 2023
+FPGA Configuration command : Success
+
+Tue Apr  4 21:22:42 2023
+Return status : 0
+
+Tue Apr  4 21:22:42 2023
+stop_record
+
+Tue Apr  4 21:22:42 2023
+No record process is running.
+
+Tue Apr  4 21:22:42 2023
+Reset AR Device Command (req)
+
+Tue Apr  4 21:22:42 2023
+Reset AR Device command : Success
+
+Tue Apr  4 21:22:42 2023
+Return status : 0
+
+Tue Apr  4 21:38:23 2023
+FPGA Configuration Command (req)
+
+Tue Apr  4 21:38:23 2023
+FPGA Configuration command : Success
+
+Tue Apr  4 21:38:23 2023
+Return status : 0
+
+Tue Apr  4 21:38:23 2023
+Configure Record Command (req)
+
+Tue Apr  4 21:38:23 2023
+Configure Record command : Success
+
+Tue Apr  4 21:38:23 2023
+Return status : 0
+
+Tue Apr  4 21:38:23 2023
+Start Record Command (req)
+
+Tue Apr  4 21:38:23 2023
+Start Record Command (req)
+
+Tue Apr  4 21:38:23 2023
+Start Record command : Success
+
+Tue Apr  4 21:38:23 2023
+Start Record command : Success
+
+Tue Apr  4 21:38:23 2023
+Return status : 0
+
+Tue Apr  4 21:38:28 2023
+Record is completed
